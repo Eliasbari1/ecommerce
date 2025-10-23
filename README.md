@@ -1,8 +1,1 @@
-# ecommerce
-package main
-
-import "ecommerce/cmd"
-
-func main() {
-	cmd.Serve()
-}
+An e-commerce site by Habib bhai
